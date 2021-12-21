@@ -1,10 +1,17 @@
 {
   "name": "@jsknight/xano-connect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Easy API calls to your Xano backend",
   "main": "index.js",
   "scripts": {},
-  "keywords": [],
+  "keywords": [
+    "xano",
+    "api",
+    "orm",
+    "npm",
+    "package",
+    "jsknight"
+  ],
   "author": "Jon Knigt <jon@kilnr.com>",
   "license": "ISC"
 }
