@@ -1,1 +1,1 @@
-![npm (scoped)](https://img.shields.io/npm/v/@jsknight/xano-connect)
+[![npm (scoped)](https://img.shields.io/npm/v/@jsknight/xano-connect)(https://github.com/jsknight/xano-connect)]
