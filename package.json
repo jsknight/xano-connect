@@ -13,5 +13,8 @@
     "jsknight"
   ],
   "author": "Jon Knigt <jon@kilnr.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xhr2": "^0.2.1"
+  }
 }
